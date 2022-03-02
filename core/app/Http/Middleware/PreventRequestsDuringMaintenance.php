@@ -8,7 +8,7 @@
         /**
          * The URIs that should be reachable while maintenance mode is enabled.
          *
-         * @var array
+         * @var array<int, string>
          */
         protected $except = [//
         ];

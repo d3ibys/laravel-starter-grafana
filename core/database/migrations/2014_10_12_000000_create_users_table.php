@@ -4,7 +4,7 @@
     use Illuminate\Database\Schema\Blueprint;
     use Illuminate\Support\Facades\Schema;
 
-    class CreateUsersTable extends Migration {
+    return new class extends Migration {
         /**
          * Run the migrations.
          *
@@ -18,7 +18,6 @@
                 $table->timestamp( 'email_verified_at' )->nullable();
                 $table->string( 'password' );
                 $table->unsignedInteger( 'version' )->default( 1 );
-                $table->string( 'tokens' )->nullable();
                 $table->timestamps();
             } );
         }
@@ -31,4 +30,4 @@
         public function down() {
             Schema::dropIfExists( 'users' );
         }
-    }
+    };

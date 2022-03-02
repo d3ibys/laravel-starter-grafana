@@ -29,7 +29,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all
 modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video
 tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging
 into our comprehensive video library.
 
@@ -51,6 +51,8 @@ becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
 ## Contributing
 

@@ -2,12 +2,11 @@
 
     namespace Tests;
 
-    use Arr;
     use Hans\Sphinx\Contracts\SphinxContract;
     use Illuminate\Foundation\Testing\RefreshDatabase;
     use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
     use Illuminate\Foundation\Testing\WithFaker;
-    use function app;
+    use Illuminate\Support\Arr;
 
     abstract class TestCase extends BaseTestCase {
         use CreatesApplication, RefreshDatabase, WithFaker;

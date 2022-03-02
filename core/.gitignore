@@ -1,7 +1,6 @@
 /node_modules
 /public/hot
 /public/storage
-/public/elurra
 /storage/*.key
 /vendor
 .env

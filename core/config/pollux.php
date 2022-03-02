@@ -28,7 +28,7 @@
                 'title' => 'users',
                 'icon'  => 'users-icon',
                 'class' => 'users-info',
-                'link'  => 'v1.users.index',
+                'link'  => 'users.index',
 
                 'children' => [
                     [
@@ -38,7 +38,7 @@
 
                         'title' => 'update user',
                         'icon'  => 'user-icon',
-                        'link'  => 'v1.users.index',
+                        'link'  => 'users.index',
 
                         'children' => [
                             [
@@ -48,7 +48,7 @@
 
                                 'title' => 'export user',
                                 'icon'  => 'user-icon',
-                                'link'  => 'v1.users.index'
+                                'link'  => 'users.index'
                             ]
 
                         ]
@@ -60,7 +60,7 @@
 
                         'title' => 'show user',
                         'icon'  => 'user-icon',
-                        'link'  => 'v1.users.index'
+                        'link'  => 'users.index'
                     ]
                 ]
             ],
@@ -71,7 +71,7 @@
 
                 'title' => 'dashboard user',
                 'icon'  => 'user-icon',
-                'link'  => 'v1.users.index',
+                'link'  => 'users.index',
 
                 'children' => [
                     [
@@ -81,7 +81,7 @@
 
                         'title' => 'dashboard user edit',
                         'icon'  => 'user-icon',
-                        'link'  => 'v1.users.index'
+                        'link'  => 'users.index'
                     ]
                 ]
             ],
